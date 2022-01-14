@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213982106740",
+    "project_id": "rest-api-a7fbe",
+    "storage_bucket": "rest-api-a7fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213982106740:android:aaa39378fcde00f9c26d21",
+        "android_client_info": {
+          "package_name": "com.example.restapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213982106740-km2btt2jequ50mt9a16t3021b3hu0709.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVATwzfdzHME9a3RA_3QYeGjaWG-RO8e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213982106740-km2btt2jequ50mt9a16t3021b3hu0709.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
